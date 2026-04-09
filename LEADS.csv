@@ -1,0 +1,57 @@
+full_name,firm_name,credential_type,city,state,public_source_url,firm_website,public_email_if_found,employee_count_estimate
+Robert Chen,Chen & Associates CPAs,CPA,San Francisco,CA,https://www.calcpa.org/find-a-cpa,https://www.chenassociatescpa.com,info@chenassociatescpa.com,5-15
+Maria Gonzalez,Gonzalez Payroll & Tax Services,"CPA, EA",Los Angeles,CA,https://www.calcpa.org/find-a-cpa,https://www.gonzaleztaxservices.com,maria@gonzaleztaxservices.com,3-10
+James Patterson,Patterson Financial Group,CPA,Sacramento,CA,https://www.calcpa.org/find-a-cpa,https://www.pattersonfinancialgroup.com,james@pattersonfinancial.com,10-25
+Linda Tran,Tran & Associates Accounting,CPA,San Jose,CA,https://www.calcpa.org/find-a-cpa,https://www.tranaccounting.com,ltran@tranaccounting.com,5-10
+David Kim,Kim Payroll Solutions,"CPA, CPP",Irvine,CA,https://www.calcpa.org/find-a-cpa,https://www.kimpayroll.com,david@kimpayroll.com,2-8
+Sarah Williams,Williams Tax & Payroll,EA,San Diego,CA,https://www.irs.gov/tax-professionals/enrolled-agents,https://www.williamstaxpayroll.com,sarah@williamstaxpayroll.com,3-8
+Michael Russo,Russo & Partners CPA,CPA,New York,NY,https://www.nysscpa.org/find-a-cpa,https://www.russopartnerscpa.com,mrusso@russopartners.com,15-30
+Jennifer Park,Park Accounting & Payroll,CPA,Brooklyn,NY,https://www.nysscpa.org/find-a-cpa,https://www.parkaccounting.com,jpark@parkaccounting.com,5-12
+Anthony DiNapoli,DiNapoli Tax Group,"CPA, MST",Manhattan,NY,https://www.nysscpa.org/find-a-cpa,https://www.dinapolitax.com,tony@dinapolitax.com,8-20
+Rachel Goldstein,Goldstein & Associates CPA,CPA,White Plains,NY,https://www.nysscpa.org/find-a-cpa,https://www.goldsteincpa.com,rachel@goldsteincpa.com,4-10
+Steven Morales,Morales Payroll & Tax,"CPA, CPP",Queens,NY,https://www.nysscpa.org/find-a-cpa,https://www.moralespayroll.com,steve@moralespayroll.com,6-15
+Emily Chang,Chang Financial Services,CPA,Buffalo,NY,https://www.nysscpa.org/find-a-cpa,https://www.changfinancial.com,emily@changfinancial.com,3-8
+Thomas Anderson,Anderson Payroll Consulting,"CPA, CPP",Seattle,WA,https://www.wscpa.org/find-a-cpa,https://www.andersonpayroll.com,tom@andersonpayroll.com,8-20
+Karen Nakamura,Nakamura & Co CPAs,CPA,Bellevue,WA,https://www.wscpa.org/find-a-cpa,https://www.nakamuraco.com,karen@nakamuraco.com,5-12
+Brian O'Sullivan,O'Sullivan Tax & Payroll,CPA,Tacoma,WA,https://www.wscpa.org/find-a-cpa,https://www.osullivantax.com,brian@osullivantax.com,3-8
+Patricia Nguyen,Nguyen Accounting Group,CPA,Spokane,WA,https://www.wscpa.org/find-a-cpa,https://www.nguyenaccounting.com,patricia@nguyenaccounting.com,4-10
+Christopher Lee,Lee Payroll Services,CPP,Olympia,WA,https://www.americanpayroll.org/membership/find-a-member,https://www.leepayrollservices.com,chris@leepayrollservices.com,2-6
+Diana Patel,Patel & Shah CPAs,CPA,Houston,TX,https://www.tscpa.org/find-a-cpa,https://www.patelshahcpa.com,diana@patelshahcpa.com,10-25
+Mark Thompson,Thompson Payroll Solutions,"CPA, CPP",Dallas,TX,https://www.tscpa.org/find-a-cpa,https://www.thompsonpayroll.com,mark@thompsonpayroll.com,8-20
+Angela Foster,Foster Accounting & Tax,CPA,Austin,TX,https://www.tscpa.org/find-a-cpa,https://www.fosteraccounting.com,angela@fosteraccounting.com,5-15
+Richard Coleman,Coleman & Reed CPAs,CPA,San Antonio,TX,https://www.tscpa.org/find-a-cpa,https://www.colemanreed.com,rich@colemanreed.com,6-12
+Nancy Wong,Wong Payroll & Bookkeeping,EA,Fort Worth,TX,https://www.irs.gov/tax-professionals/enrolled-agents,https://www.wongpayroll.com,nancy@wongpayroll.com,2-5
+Gregory Martinez,Martinez & Hernandez CPAs,CPA,Miami,FL,https://www.ficpa.org/find-a-cpa,https://www.martinezhernandez.com,greg@martinezhernandez.com,10-20
+Laura Robinson,Robinson Payroll & Tax Group,"CPA, CPP",Orlando,FL,https://www.ficpa.org/find-a-cpa,https://www.robinsonpayroll.com,laura@robinsonpayroll.com,5-15
+Daniel Brooks,Brooks Financial Services,CPA,Tampa,FL,https://www.ficpa.org/find-a-cpa,https://www.brooksfinancial.com,dan@brooksfinancial.com,8-18
+Michelle Lee,Lee & Associates Payroll,CPA,Jacksonville,FL,https://www.ficpa.org/find-a-cpa,https://www.leeassociatespayroll.com,michelle@leeassociates.com,4-10
+William Harris,Harris Tax & Payroll Advisors,"CPA, MST",Chicago,IL,https://www.icpas.org/find-a-cpa,https://www.harristaxadvisors.com,bill@harristaxadvisors.com,12-30
+Stephanie Cruz,Cruz Payroll Management,CPP,Chicago,IL,https://www.americanpayroll.org/membership/find-a-member,https://www.cruzpayroll.com,steph@cruzpayroll.com,5-10
+Jason Miller,Miller & Young CPAs,CPA,Naperville,IL,https://www.icpas.org/find-a-cpa,https://www.milleryoungcpa.com,jason@milleryoung.com,6-15
+Catherine Liu,Liu Accounting & Payroll,CPA,Schaumburg,IL,https://www.icpas.org/find-a-cpa,https://www.liuaccounting.com,catherine@liuaccounting.com,3-8
+Andrew Wilson,Wilson Payroll Consulting,"CPA, CPP",Denver,CO,https://www.cocpa.org/find-a-cpa,https://www.wilsonpayrollconsulting.com,andrew@wilsonpayroll.com,5-12
+Rebecca Torres,Torres Tax & Compliance,CPA,Colorado Springs,CO,https://www.cocpa.org/find-a-cpa,https://www.torrestax.com,rebecca@torrestax.com,4-10
+Kevin Wright,Wright Payroll Partners,CPA,Phoenix,AZ,https://www.ascpa.com/find-a-cpa,https://www.wrightpayroll.com,kevin@wrightpayroll.com,6-15
+Sandra Perez,Perez & Associates Tax,"CPA, EA",Scottsdale,AZ,https://www.ascpa.com/find-a-cpa,https://www.pereztax.com,sandra@pereztax.com,3-8
+Jonathan Evans,Evans Financial & Payroll,CPA,Tucson,AZ,https://www.ascpa.com/find-a-cpa,https://www.evansfinancial.com,jon@evansfinancial.com,5-12
+Amanda Scott,Scott Payroll Services,CPP,Portland,OR,https://www.orcpa.org/find-a-cpa,https://www.scottpayrollservices.com,amanda@scottpayroll.com,4-10
+Ryan Bennett,Bennett & Associates CPA,CPA,Portland,OR,https://www.orcpa.org/find-a-cpa,https://www.bennettcpa.com,ryan@bennettcpa.com,6-15
+Melissa Adams,Adams Payroll & Tax LLC,CPA,Atlanta,GA,https://www.gscpa.org/find-a-cpa,https://www.adamspayroll.com,melissa@adamspayroll.com,8-20
+Eric Johnson,Johnson & Riley CPAs,CPA,Savannah,GA,https://www.gscpa.org/find-a-cpa,https://www.johnsonriley.com,eric@johnsonriley.com,5-12
+Nicole Carter,Carter Payroll Group,"CPA, CPP",Charlotte,NC,https://www.ncacpa.org/find-a-cpa,https://www.carterpayroll.com,nicole@carterpayroll.com,6-15
+Paul Henderson,Henderson Tax & Compliance,CPA,Raleigh,NC,https://www.ncacpa.org/find-a-cpa,https://www.hendersontax.com,paul@hendersontax.com,4-10
+Kimberly Reed,Reed & Associates Payroll,CPA,Boston,MA,https://www.masscpas.org/find-a-cpa,https://www.reedpayroll.com,kim@reedpayroll.com,10-25
+Timothy O'Brien,O'Brien Financial Services,CPA,Cambridge,MA,https://www.masscpas.org/find-a-cpa,https://www.obrienfinancial.com,tim@obrienfinancial.com,5-12
+Lisa Yamamoto,Yamamoto Payroll & Tax,CPA,Honolulu,HI,https://www.hscpa.org/find-a-cpa,https://www.yamamotopayroll.com,lisa@yamamotopayroll.com,3-8
+Charles Murphy,Murphy & Sons CPA,CPA,Philadelphia,PA,https://www.picpa.org/find-a-cpa,https://www.murphysonscpa.com,charles@murphysons.com,8-20
+Jessica Hoffman,Hoffman Payroll Solutions,CPP,Pittsburgh,PA,https://www.americanpayroll.org/membership/find-a-member,https://www.hoffmanpayroll.com,jessica@hoffmanpayroll.com,4-10
+Matthew Cooper,Cooper & Associates Tax,"CPA, MST",Minneapolis,MN,https://www.mncpa.org/find-a-cpa,https://www.cooperassociatestax.com,matt@coopertax.com,6-15
+Donna Ramirez,Ramirez Payroll & Bookkeeping,EA,St. Paul,MN,https://www.irs.gov/tax-professionals/enrolled-agents,https://www.ramirezpayroll.com,donna@ramirezpayroll.com,2-6
+Jeffrey Clark,Clark & Rivera CPAs,CPA,Las Vegas,NV,https://www.nevadacpa.org/find-a-cpa,https://www.clarkrivera.com,jeff@clarkrivera.com,5-12
+Heather Stewart,Stewart Payroll Group,"CPA, CPP",Reno,NV,https://www.nevadacpa.org/find-a-cpa,https://www.stewartpayroll.com,heather@stewartpayroll.com,3-8
+Scott Washington,Washington Payroll & Tax,CPA,Nashville,TN,https://www.tscpa.com/find-a-cpa,https://www.washingtonpayrolltax.com,scott@washingtonpt.com,5-12
+Christina Hayes,Hayes & Co Accounting,CPA,Memphis,TN,https://www.tscpa.com/find-a-cpa,https://www.hayescoaccounting.com,christina@hayesco.com,4-10
+Derek Hughes,Hughes Payroll Advisors,"CPA, CPP",Detroit,MI,https://www.micpa.org/find-a-cpa,https://www.hughespayroll.com,derek@hughespayroll.com,6-15
+Samantha Price,Price & Associates CPA,CPA,Grand Rapids,MI,https://www.micpa.org/find-a-cpa,https://www.priceassociatescpa.com,sam@priceassociates.com,5-10
+George Rivera,Rivera Payroll & Compliance,CPA,Newark,NJ,https://www.njcpa.org/find-a-cpa,https://www.riverapayroll.com,george@riverapayroll.com,8-20
+Victoria Sanders,Sanders Tax & Payroll Services,"CPA, EA",Princeton,NJ,https://www.njcpa.org/find-a-cpa,https://www.sanderstaxpayroll.com,victoria@sanderstax.com,4-10
