@@ -1,9 +1,21 @@
 import type { Metadata } from 'next';
+import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import './globals.css';
 
 export const metadata: Metadata = {
   title: 'ComplianceBeacon — 2026 Payroll Compliance Engine',
   description: 'Federal & state payroll compliance for OBBBA TP/TT reporting and $680 penalty risk detection.',
+  openGraph: {
+    title: 'ComplianceBeacon — 2026 OBBBA Payroll Compliance',
+    description: 'Validate W-2 Box 12 Code TP (Tips) and TT (OT Premium). Detect $680 penalty risks across CA, NY, WA.',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'ComplianceBeacon — 2026 Payroll Compliance',
+    description: 'Automated TP/TT validation + $680 penalty detection for CPAs & payroll providers.',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -19,18 +31,21 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <span className="hidden sm:inline text-xs bg-blue-500/20 text-blue-300 px-2 py-0.5 rounded-full border border-blue-500/30">2026 OBBBA</span>
               </div>
               <div className="flex items-center gap-4 text-sm">
-                <a href="/" className="text-gray-400 hover:text-white">Home</a>
-                <a href="/engine" className="text-gray-400 hover:text-white">Engine</a>
-                <a href="/rules" className="text-gray-400 hover:text-white">Rules</a>
-                <a href="/pricing" className="text-gray-400 hover:text-white">Pricing</a>
+                <a href="/" className="text-gray-400 hover:text-white transition">Home</a>
+                <a href="/engine" className="text-gray-400 hover:text-white transition">Engine</a>
+                <a href="/rules" className="text-gray-400 hover:text-white transition">Rules</a>
+                <a href="/reports" className="text-gray-400 hover:text-white transition">Tests</a>
+                <a href="/pricing" className="text-gray-400 hover:text-white transition">Pricing</a>
               </div>
             </div>
           </div>
         </nav>
         <main>{children}</main>
         <footer className="border-t border-gray-800 py-8 mt-20">
-          <div className="max-w-7xl mx-auto px-4 text-center text-gray-500 text-sm">&copy; 2026 ComplianceBeacon</div>
+          <div className="max-w-7xl mx-auto px-4 text-center text-gray-500 text-sm">&copy; 2026 ComplianceBeacon. Payroll compliance intelligence for CPAs &amp; payroll providers.</div>
         </footer>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
